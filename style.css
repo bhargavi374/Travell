@@ -59,7 +59,7 @@
     
 }
 .div5{
-    flex-direction: row;
+    display: flex;
     align-items: center;
     text-align: center;
 }
