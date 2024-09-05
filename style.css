@@ -58,6 +58,11 @@
     text-align: center;
     
 }
+.div5{
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+}
 footer{
     background-color: blueviolet;
     color: white;
