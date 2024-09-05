@@ -59,8 +59,8 @@
     
 }
 .div5{
-    display: flex;
     text-align: center;
+    align-items: center;
 }
 footer{
     background-color: blueviolet;
